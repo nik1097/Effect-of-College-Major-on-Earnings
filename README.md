@@ -1,2 +1,2 @@
 # Effect-of-College-Major-on-Earnings
-Using the pandas plotting functionality along with the Jupyter notebook interface to explore College Major Data using visualizations.
+In this project, we have analyzed the effect of College Majors on the earning capability of graduates. We have used visualizations to identify patterns and provide useful insights into the College Major data.
